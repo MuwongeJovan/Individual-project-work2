@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+   
+   background-color: rgb(174, 223, 255);
+
+}
+.color{
+    background-color: rgb(186, 243, 253);
+}
+
+.Logo{ 
+     width: 75px;
+    border-radius: 25px;
+}
+.login{
+    background: rgb(100, 135, 250);
+    color: black;
+}
+
+.username{
+    background-color: rgb(226, 234, 236);
+    color: black;
+    border-radius: 15px;
+}
+
+.password{
+    background-color: rgb(234, 243, 245);
+    color: black;
+    border-radius: 15px;
+}
+.social-link{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.icon1{
+    width: 50px;
+    height: auto;
+}
+
+.icon2{ 
+    width: 50px;
+    height: auto;
+
+}
+.icon3{ 
+    width: 50px;
+    height: auto;
+
+}
+.icon4{ 
+    width: 50px;
+    height: auto;
+}
+
+.icon5{ 
+    width: 50px;
+    height: auto;
+}

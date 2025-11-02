@@ -1,0 +1,82 @@
+*{
+        background: linear-gradient(to right, rgba(200, 0, 150, 0.7), rgba(0, 0, 200, 0.7));
+    margin: o;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.logo{
+       width: 75px;
+    border-radius: 25px;
+    
+}
+
+.single-songs{
+    background-color: rgb(161, 236, 241);
+}
+
+.songs{
+    color: white;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.explore-more-songs{
+    color: rgb(250, 250, 247);
+    border-radius: 30px;
+    background-color: white;
+}
+
+.search{
+    color: white;
+
+    border-radius: 25px;
+}
+
+.download-song{
+    color: white;
+    border-radius: 25px;
+
+}
+
+.button{
+    color: white;
+    
+    border-radius: 25px;
+}
+
+.links{
+    color: whitesmoke;
+}
+
+.collaborations{
+    color: whitesmoke;
+
+}
+.footer2{
+    color: white;
+}
+
+.download2{
+    color: white;
+    border-radius: 25px;
+}
+
+.songz{
+    background-color: whitesmoke;
+    border-radius: 25px;
+}
+
+.search2{
+    background-color: white;
+}
+
+.more{
+    background-color: whitesmoke;
+    border-radius: 25px;
+    color: white;
+}
